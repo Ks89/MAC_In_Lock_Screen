@@ -3,7 +3,7 @@
 ## Informations
 - An extremely simple application to force Mac OS X to go in "lock screen".
 - It's a Maven Project for Eclipse.
-- I developed this application in 2012 and it's working perfecly in 2015, without any real improvement. Now i decided to release this software. I know, it's simple with only one or two lines of code. Sometimes, small and simple softwares are better ;)
+- I developed this application in 2012 and it's working perfecly in 2015, without any real improvement. I know, it's simple with only one or two lines of code. Sometimes, small and simple softwares are better ;)
 
 ## News
 - *04/03/2015* - **MAC_In_Lock_Screen** 1.0.0 public release (with ProcessBuilder instead of Runtime.exec ;) )
